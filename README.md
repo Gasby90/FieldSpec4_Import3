@@ -25,4 +25,4 @@ The code can be also utilized to perform Splice Correction pre-process to data (
 
 The “provaascii.txt” file can be used as an example.
 
-DOI: 10.5281/zenodo.3776139
+[![DOI](https://zenodo.org/badge/259972948.svg)](https://zenodo.org/badge/latestdoi/259972948)
