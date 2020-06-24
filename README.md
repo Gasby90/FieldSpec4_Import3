@@ -24,5 +24,6 @@ Starting from the three channels the datasets VNIR, SWIR1 and SWIR2 are created.
 The code can be also utilized to perform Splice Correction pre-process to data (see: http://gfzpublic.gfz-potsdam.de/pubman/item/escidoc:1388298/component/escidoc:1388299/EnMAP_FieldGuide_ASD_2015_008.pdf). Data are finally stored in a dataset object DSO (Info on how to open the dataset object can be found at the following links: https://www.mathworks.com/matlabcentral/fileexchange/39336-dataset-object ; DataSet Object web page - http://www.eigenvector.com/software/dataset.htm; DataSet Object wiki documentation - http://wiki.eigenvector.com/index.php?title=DataSet_Object ).
 
 The “provaascii.txt” file can be used as an example.
+Compatibility was checked with MATLAB Version: R2019a.
 
 [![DOI](https://zenodo.org/badge/259972948.svg)](https://zenodo.org/badge/latestdoi/259972948)
